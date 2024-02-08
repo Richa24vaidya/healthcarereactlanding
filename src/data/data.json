@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "HealthTech Excellence",
+    "paragraph": "Revolutionize Your Wellness Journey with Cutting-Edge Healthcare Solutions."
+  },
+  "About": {
+    "paragraph": "Founded on the principle that everyone deserves access to top-tier healthcare products, our mission is to enhance lives and promote a healthier world. Backed by a team of passionate professionals, we bring together expertise from various fields to create a synergy that drives positive change.",
+    "Why": [
+      "Intuitive Dashboard",
+      "Efficient Appointment Scheduling",
+      "Transparent Billing Processes",
+      "Comprehensive Patient Management"
+    ],
+    "Why2": [
+      "Streamlined Doctor Management",
+      "Robust Hospital Management",
+      "Seamless Contact Management",
+      "Visualize Appointments with Kanban Board"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/appointments.png",
+      "smallImage": "img/appointments.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/galleryone.png",
+      "smallImage": "img/galleryone.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/apptmentkanbanboard.png",
+      "smallImage": "img/apptmentkanbanboard.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+    
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Dashboard",
+      "text": "This layout is dynamic in nature it shows dynamically patients and appointment on the dashboard screen when the user enters the detail in it"
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Appointments",
+      "text": "By selecting the specific patient, we can create its appointment and can send the appointment details to the patients directly on whatsApp and email with manually updated status."
+    },
+    {
+      "icon": "fa fa-user-friends",
+      "name": "Contacts",
+      "text": " To implement the functionality where user-filled contact form data appears as a list on a dashboard, and you can edit and send email notifications with the details of the user."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Backups",
+      "text": "In the Backup section, we have made significant improvements to the user interface which take backup of all data which we missed."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Users",
+      "text": "In this user section, when the users enter the personal information , it will show as a list of users which we can edit also."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Permissions",
+      "text": "In the Permission section we will assign the permission directly to the employee from the permission list like edit, view only, create etc"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "The personalized insights and user-friendly interface make managing my health a breeze. I feel more in control and empowered on my journey.",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "The product's efficiency in appointment scheduling and tracking my progress has significantly improved my overall healthcare experience.",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": " From quick consultations to easy billings, it saves me time and stress. A reliable companion for my health needs!",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "The product's doctor management system ensures I am always in sync with my healthcare providers. ",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "The user-friendly interface makes it accessible for all, and the constant updates show a commitment to innovation in healthcare technology. ",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "The appointment kanban board keeps me organized, and the intuitive dashboard provides a clear overview of my health journey. ",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "GF-2 Dhanlaxmi Complex, Subhanpura, Vadodara, Gujarat, India – 390023",
+    "phone": "+919106077817",
+    "email": "devloops@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
